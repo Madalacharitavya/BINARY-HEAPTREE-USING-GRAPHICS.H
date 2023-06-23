@@ -13,3 +13,5 @@ This code demonstrates the use of the `graphics.h` library to draw a binary tree
 11. The `printBplusTree` function is called to draw the B+ tree.
 12. Finally, `getch` waits for a key press, and `closegraph` closes the graphics mode.
 Note that this code assumes that you have a graphics library set up and configured correctly, which might not be the case for most modern systems. The `graphics.h` library is outdated and not commonly used anymore.
+
+![Screenshot (207)](https://github.com/Madalacharitavya/BINARY-HRAPTREE-USING-GRAPHICS.H/assets/102969979/eb3c45c4-477c-4c98-b8a8-77f3b09040c7)
