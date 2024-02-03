@@ -15,3 +15,11 @@ This code demonstrates the use of the `graphics.h` library to draw a binary tree
 Note that this code assumes that you have a graphics library set up and configured correctly, which might not be the case for most modern systems. The `graphics.h` library is outdated and not commonly used anymore.
 
 ![Screenshot (207)](https://github.com/Madalacharitavya/BINARY-HRAPTREE-USING-GRAPHICS.H/assets/102969979/eb3c45c4-477c-4c98-b8a8-77f3b09040c7)
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
